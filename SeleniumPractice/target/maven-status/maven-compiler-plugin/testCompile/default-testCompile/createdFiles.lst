@@ -1,0 +1,16 @@
+page\FitnessCalculator.class
+LoginPage1.class
+baseTest\BaseTest.class
+baseTest\DataHelper.class
+page\CalorieCalculator.class
+FindElements.class
+page\page_objects_perc_calc.class
+testScript\ScrollToView.class
+Log4j_demo.class
+OpenChromeDriver.class
+Assignment1.class
+testScript\Calculator.class
+page\FitnessCalcuatorCopy.class
+Selenium2.class
+page\BodyFatCalculator.class
+LoginPage.class

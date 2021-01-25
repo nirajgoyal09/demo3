@@ -1,0 +1,32 @@
+2020-10-1621:56:49 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2020-10-1621:56:49 [Log4j_demo] (main:) TEST Has Started
+2020-10-1621:56:54 [Log4j_demo] (main:) Open Calc Application
+2020-10-1622:01:00 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2020-10-1622:01:00 [Log4j_demo] (main:) TEST Has Started
+2020-10-1622:01:02 [Log4j_demo] (main:) Open Calc Application
+2020-10-1622:01:03 [Log4j_demo] (main:) Clicked Math Calculator Link
+2020-10-1622:01:03 [Log4j_demo] (main:) Clicked Percent Calculator Link
+2020-10-1622:04:39 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2020-10-1622:04:39 [Log4j_demo] (main:) TEST Has Started
+2020-10-1622:04:42 [Log4j_demo] (main:) Open Calc Application
+2020-10-1622:04:44 [Log4j_demo] (main:) Clicked Math Calculator Link
+2020-10-1622:04:44 [Log4j_demo] (main:) Clicked Percent Calculator Link
+2020-10-1622:04:45 [Log4j_demo] (main:) Entered Value into First Text Box
+2020-10-1622:04:45 [Log4j_demo] (main:) Entered Value into Second Text Box
+2020-10-1622:04:45 [Log4j_demo] (main:) Click Calculate Button
+2020-10-1622:04:45 [Log4j_demo] (main:) Get Text Value
+2020-10-1622:04:45 [Log4j_demo] (main:)  The Result is Please provide any two values below and click the "Calculate" button to get the third value.
+2020-10-1622:04:45 [Log4j_demo] (main:) TEST FAILED. NEEDS INVESTIGATION
+2020-10-1622:04:45 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2020-10-2721:16:34 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2020-10-2721:16:34 [Log4j_demo] (main:) TEST Has Started
+2020-10-2721:16:36 [Log4j_demo] (main:) Open Calc Application
+2020-10-2721:16:39 [Log4j_demo] (main:) Clicked Math Calculator Link
+2020-10-2721:16:44 [Log4j_demo] (main:) Clicked Percent Calculator Link
+2020-10-2721:16:44 [Log4j_demo] (main:) Entered Value into First Text Box
+2020-10-2721:16:44 [Log4j_demo] (main:) Entered Value into Second Text Box
+2020-10-2721:16:45 [Log4j_demo] (main:) Click Calculate Button
+2020-10-2721:16:45 [Log4j_demo] (main:) Get Text Value
+2020-10-2721:16:45 [Log4j_demo] (main:)  The Result is 10% of 50 = 5
+2020-10-2721:16:45 [Log4j_demo] (main:) TEST FAILED. NEEDS INVESTIGATION
+2020-10-2721:16:45 [Log4j_demo] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 

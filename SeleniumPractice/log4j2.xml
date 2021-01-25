@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="debug" strict="true" name="XMLConfigTest"
+               packages="org.apache.logging.log4j.test">
+    <Properties>
+        <Property name="filename">log/test.log</Property>
+    </Properties>
+
+    <Appenders>
+        <Appender type="File" name="STDOUT">
+            <Layout type="PatternLayout" pattern="%m MDC%X%n"/>
+
+        </Appender>
+
+        <Appender type="File" name="File" fileName="${filename}">
+            <Layout type="PatternLayout">
+                <Pattern>%d %p %C{1.} [%t] %m%n</Pattern>
+            </Layout>
+        </Appender>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="testScript.Calculator" level="debug" additivity="false">
+
+            <AppenderRef ref="STDOUT"/>
+        </Logger>
+
+        <Logger name="testScript.Calculator" level="debug" additivity="false">
+            <AppenderRef ref="File"/>
+        </Logger>
+
+        <Root level="trace">
+            <AppenderRef ref="STDOUT"/>
+        </Root>
+    </Loggers>
+
+</Configuration>
